@@ -38,16 +38,28 @@ View Dashboard
 View Dashboard
 
 # 📝 Insights -
+
 1.Sales in December are increasing every year and are above average in each category and state.
+
 2.40% delay in delivering orders can affect customer satisfaction and customer return rates.
+
 3.Profit margin is 14.9%.
+
 4.California leads with 76.4K Profit (63% of 11 states) followed by Washington with 33.4K Profit.
+
 5.Chairs, phones, tables are among the best-selling categories.
+
 6.Due to low order volume and high prices, copiers generate the highest profit, generating 19.3K profit, followed by accessories and binders.
+
 # 📢 Recommendations -
+
 1.Seasonal sales and offers on products to attract more customers to increase mid-year sales.
+
 2.Delay in delivering orders - improve logistics or warehouses count.
+
 3.Cost control and price improvement in a state that is not profitable or has positive profits but very low margins.
+
 4.Increase the price of categories that have high volume but low sales (ex. papers).
 
 # Dashboard
+<img width="1893" height="801" alt="Image" src="https://github.com/user-attachments/assets/dcaab6c0-2c7a-4ef3-ace9-c61d4cc58a0b" />
